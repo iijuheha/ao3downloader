@@ -1,3 +1,5 @@
+I have very little to add. I ran this on Linux Mint, and it was fairly linear when following the instructions for Mac. I did have to install some libraries though, but it was easy enough as the terminal told me which ones I needed. It was a matter of making sure I'm in there as root, and using pip install. 
+
 ## What is this?
 
 This is a program intended to help you download fanfiction from the [Archive of Our Own](https://archiveofourown.org/) in bulk. This program is primarily intended to work with links to the Archive of Our Own itself, but has a secondary function of downloading any [Pinboard](https://pinboard.in/) bookmarks that link to the Archive of Our Own. You can ignore the Pinboard functionality if you don't know what Pinboard is or don't use Pinboard.
